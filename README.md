@@ -11,6 +11,14 @@
 </div>
 
 
+https://msravc2genai.blob.core.windows.net/glyph?sp=r&st=2023-07-31T04:25:14Z&se=2028-03-04T12:25:14Z&spr=https&sv=2022-11-02&sr=c&sig=22H%2Bj7Dhj6TrlFH4Cqm7V7GcbuHsMT1Y29HzubYestg%3D
+
+## News
+
+⛽ ⛽ ⛽ Contact: [yuhui.yuan@microsoft.com](yuhui.yuan@microsoft.com) 
+
+**2023.07.31** [LAION-Glyph-1M](https://msravc2genai.blob.core.windows.net/glyph/LAION-Glyph-1M?sp=r&st=2023-07-31T04:25:14Z&se=2028-03-04T12:25:14Z&spr=https&sv=2022-11-02&sr=c&sig=22H%2Bj7Dhj6TrlFH4Cqm7V7GcbuHsMT1Y29HzubYestg%3D) and [LAION-Glyph-10M](https://msravc2genai.blob.core.windows.net/glyph/LAION-Glyph-10M?sp=r&st=2023-07-31T04:25:14Z&se=2028-03-04T12:25:14Z&spr=https&sv=2022-11-02&sr=c&sig=22H%2Bj7Dhj6TrlFH4Cqm7V7GcbuHsMT1Y29HzubYestg%3D) are released. Please use [azcopy](https://learn.microsoft.com/en-us/azure/storage/common/storage-use-azcopy-files#download-a-file) to copy the data. 🍺credits to [Weicong Liang](https://github.com/kxqt)🍺
+
 ## :high_brightness: Highlights
 
 * We propose a glyph-conditional text-to-image generation model named **GlyphControl** for visual text generation, which outperforms DeepFloyd IF and Stable Diffusion in terms of OCR accuracy and CLIP score while saving the number of parameters by more than 3×.
