@@ -11,8 +11,6 @@
 </div>
 
 
-https://msravc2genai.blob.core.windows.net/glyph?sp=r&st=2023-07-31T04:25:14Z&se=2028-03-04T12:25:14Z&spr=https&sv=2022-11-02&sr=c&sig=22H%2Bj7Dhj6TrlFH4Cqm7V7GcbuHsMT1Y29HzubYestg%3D
-
 ## News
 
 ⛽ ⛽ ⛽ Contact: [yuhui.yuan@microsoft.com](yuhui.yuan@microsoft.com) 
