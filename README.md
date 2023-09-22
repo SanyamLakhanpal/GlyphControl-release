@@ -15,6 +15,8 @@
 
 ⛽ ⛽ ⛽ Contact: [yuhui.yuan@microsoft.com](yuhui.yuan@microsoft.com) 
 
+**2023.09.22** GlyphControl has been accepted by NeurIPS 2023 🍺
+
 **2023.07.31** [LAION-Glyph-1M](https://msravc2genai.blob.core.windows.net/glyph/LAION-Glyph-1M?sp=rl&st=2023-08-02T02:52:27Z&se=2026-02-28T10:52:27Z&sv=2022-11-02&sr=c&sig=cgmhPrxaay%2BpqFaPkeHBgbOBfTxaNHoYHLayYiAMhkg%3D) and [LAION-Glyph-10M](https://msravc2genai.blob.core.windows.net/glyph/LAION-Glyph-10M?sp=rl&st=2023-08-02T02:52:27Z&se=2026-02-28T10:52:27Z&sv=2022-11-02&sr=c&sig=cgmhPrxaay%2BpqFaPkeHBgbOBfTxaNHoYHLayYiAMhkg%3D) are released. Please use [azcopy](https://learn.microsoft.com/en-us/azure/storage/common/storage-use-azcopy-files#download-a-file) to copy the data. 🍺credits to [Weicong Liang](https://github.com/kxqt)🍺
 
 ## :high_brightness: Highlights
