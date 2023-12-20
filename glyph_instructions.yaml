@@ -1,5 +1,5 @@
 Instructions:
-  rendered_txt_values: ["APPLE"]
+  rendered_txt_values: ["Over heard chased without towards against with"]
   # the width of the OCR box (i.e., the font size)
   width_values: [0.3] 
   # the width-height ratio of the OCR box, if the ratio == 0, the ratio will be set as optimal ratio
